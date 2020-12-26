@@ -1,4 +1,4 @@
-# Rock_Scissor_Paper
+### Rock_Scissor_Paper
 In this assignment, you need to make a Rock-Scissors-Paper Game application.
 Here are the rules: Rock breaks scissors, scissor cuts paper and paper eats rock. You are going to play against the computer. The first player who gets 5 points wins the game.
 In each iteration, the computer should randomly select Rock, Scissor or Paper by using Random function. You need to write what you choose.
